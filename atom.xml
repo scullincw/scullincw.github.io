@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scullincw.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-12-27T15:15:37.042Z</updated>
+    <title>高速啤机</title>
+    <updated>2019-12-27T15:28:41.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scullincw.github.io"/>
     <link rel="self" href="https://scullincw.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个敲代码的贝斯手</subtitle>
     <logo>https://scullincw.github.io/images/avatar.png</logo>
     <icon>https://scullincw.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 高速啤机</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://scullincw.github.io/post/hello-gridea</id>
