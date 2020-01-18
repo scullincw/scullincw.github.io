@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scullincw.github.io</id>
     <title>高速啤机</title>
-    <updated>2020-01-18T17:40:42.595Z</updated>
+    <updated>2020-01-18T17:45:01.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scullincw.github.io"/>
     <link rel="self" href="https://scullincw.github.io/atom.xml"/>
-    <subtitle>一个敲代码的贝斯手</subtitle>
+    <subtitle>一个贝斯手</subtitle>
     <logo>https://scullincw.github.io/images/avatar.png</logo>
     <icon>https://scullincw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 高速啤机</rights>
